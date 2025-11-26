@@ -40,11 +40,12 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a Computer Science student at SRM University and multilingual speaker with a passion
-        for ethical hacking, artificial intelligence, and neural language processing. I am looking
-        to join a company that values innovation, collaboration, and continuous learning and am
-        confident that my enthusiasm and drive will help me succeed in any role that leverages my
-        passion for technology.
+        I am an innovative ICT graduate specializing in Data Science & ML, Data Analysis, and Software Development, with a strong passion
+for transforming complex data and ideas into practical, high impact solutions. Skilled in designing and developing data
+driven applications, building interactive dashboards, and creating predictive models that support informed decision
+making and business growth. Proficient in programming, data visualization, and software engineering principles, with a
+commitment to delivering efficient, scalable, and user-friendly digital solutions that enhance performance and
+organizational efficiency.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
