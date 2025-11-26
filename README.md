@@ -123,7 +123,7 @@ npm run dev
 - ✉️ Email Integration
   - Contact form using EmailJS
 
-## 📄 License
+
 
 <div align="center">
 
