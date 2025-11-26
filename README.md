@@ -1,28 +1,16 @@
+Muchoki Jacob Portfolio
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Portfolio%20Website%20V2&fontSize=80&animation=fadeIn&fontAlignY=35)
+<p align="center"> <a href="#features">Features</a> • <a href="#demo">Demo</a> • <a href="#screenshots">Screenshots</a> • <a href="#installation">Installation</a> • <a href="#tech-stack">Tech Stack</a> </p>
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#demo">Demo</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#tech-stack">Tech Stack</a>
-</p>
 
-[![GitHub license](https://img.shields.io/github/license/lohitkolluri/Portfolio?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fportfolio-lohit.vercel.app)](https://portfolio-lohit.vercel.app)
-[![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=flat-square&logo=react)](https://reactjs.org)
 
-<p align="center">A modern, responsive portfolio website showcasing professional experience, projects, and skills. Built with React, Vite, and Tailwind CSS, featuring smooth animations and interactive 3D elements. ✨</p>
 
-</div>
 
-## ✨ Features
 
+<p align="center">A modern, responsive portfolio website showcasing my professional experience, projects, and technical skills. Built with React, Vite, and Tailwind CSS, featuring smooth animations and interactive 3D elements. ✨</p> </div>
+✨ Features
 <div align="center">
-
-```mermaid
 mindmap
   root((Portfolio Website))
     User Interface
@@ -39,94 +27,80 @@ mindmap
       Tailwind CSS Styling
       EmailJS Integration
     Integrations
-       Email Contact
+      Email Contact
       Project Showcase
-```
 
 </div>
+🚀 Demo
 
-## 🚀 Demo
+👉 Live Site:
+https://jaymuchoki.github.io/MuchokiJacob-portfolio/
 
-Experience the live portfolio at [https://portfolio-lohit.vercel.app](https://jaymuchoki.github.io/MuchokiJacob-portfolio/)
+🖼️ Screenshots
 
-## 🛠️ Installation
+(Optional — Add screenshots here)
+You can upload images and reference them like this:
 
-1️⃣ Clone the repository:
+![Homepage](./screenshots/homepage.png)
+![Projects](./screenshots/projects.png)
 
-```bash
-git clone https://github.com/jaymuchoki/MuchokiJacob-portfolio
-```
+🛠️ Installation
 
-2️⃣ Navigate to project directory:
+Follow these steps to run the project locally:
 
-```bash
-cd Portfolio-Website
-```
+1️⃣ Clone the repository
+git clone https://github.com/JayMuchoki/MuchokiJacob-portfolio
 
-3️⃣ Install dependencies:
+2️⃣ Navigate to the project folder
+cd MuchokiJacob-portfolio
 
-```bash
+3️⃣ Install dependencies
 npm install
-```
 
-4️⃣ Run development server:
-
-```bash
+4️⃣ Start the development server
 npm run dev
-```
 
+💻 Tech Stack
+<table align="center"> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /> <br>React </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /> <br>Vite </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /> <br>Tailwind CSS </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" /> <br>Three.js </td> </tr> </table>
+⚡ Core Features
+📱 Responsive Design
 
-## 💻 Tech Stack
+Fully mobile-first layout
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
-      <br>Three.js
-    </td>
-  </tr>
-</table>
+Optimized for tablets and desktops
 
-## ⚡ Core Features
+Clean, accessible UI on all screen sizes
 
-- 📱 Responsive Design
+🎯 Dynamic Content
 
-  - Mobile-first approach
-  - Seamless experience across all devices
-  - Adaptive layouts and components
+Interactive project cards
 
-- 🎯 Dynamic Content
+Experience timeline
 
-  - Interactive project showcase
-  - Engaging experience section
-  - Animated skill representations
+Animated skill visualizations
 
-- 🎨 Modern UI/UX
+🎨 Modern UI/UX
 
-  - Smooth Framer Motion animations
-  - Intuitive navigation
-  - Clean and professional design
-  - Interactive 3D elements using Three.js
+Smooth animations via Framer Motion
 
-- ✉️ Email Integration
-  - Contact form using EmailJS
+Minimal, professional layout
 
-## 📄 License
+Clean typography and spacing
 
-<div align="center">
+3D elements using Three.js
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+✉️ Email Integration
 
-</div>
+Built-in EmailJS contact form
+
+Real-time validation
+
+Direct inbox delivery
+
+📬 Contact
+
+If you’d like to get in touch:
+
+Portfolio: https://jaymuchoki.github.io/MuchokiJacob-portfolio/
+
+GitHub: https://github.com/JayMuchoki
