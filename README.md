@@ -47,8 +47,8 @@ mindmap
 
 ## 🚀 Demo
 
-🔗 Experience the live portfolio at  
-[<img src="https://img.icons8.com/fluency/48/portfolio.png" width="28"/>](https://jaymuchoki.github.io/MuchokiJacob-portfolio/)
+Experience the live portfolio at [Muchoki Jacob Portfolio](https://jaymuchoki.github.io/MuchokiJacob-portfolio/)
+
 
 ## 🛠️ Installation
 
