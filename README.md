@@ -47,7 +47,7 @@ mindmap
 
 ## 🚀 Demo
 
-Experience the live portfolio at [https://portfolio-lohit.vercel.app](https://jaymuchoki.github.io/MuchokiJacob-portfolio/)
+Experience the live portfolio at [(https://jaymuchoki.github.io/MuchokiJacob-portfolio](https://jaymuchoki.github.io/MuchokiJacob-portfolio/)
 
 ## 🛠️ Installation
 
