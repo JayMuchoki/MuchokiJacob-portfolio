@@ -117,7 +117,7 @@ export const projects = [
   {
     name: "Air BnB Pricing ",
     description:
-     "This project analyzes employee-related factors at INX Future Inc. to identify key drivers of performance and predict future productivity using machine learning models like Random Forest and XGBoost. It helps HR teams make data-driven hiring, retention, and engagement decisions. Insights from the analysis guide better workforce management and improve overall organizational performance.",
+    "Price It Right is a Streamlit web app that helps Airbnb hosts estimate nightly prices for their listings using features like location, room type, and availability. It uses a regression machine learning model trained on the Airbnb NYC dataset to provide accurate pricing predictions. The app’s user-friendly interface enables hosts to stay competitive and optimize their property pricing.",
       tags: [
          { name: "Machine Learning", color: "blue-text-gradient" },
       { name: "Jupyter Notebook", color: "green-text-gradient" },
@@ -129,7 +129,7 @@ export const projects = [
   {
     name: "Employee Performance Prediction",
     description:
-      "ML model that utilizes regression techniques to provide insights into mental health and make predictions based on the available data.",
+    "This project analyzes employee-related factors at INX Future Inc. to identify key drivers of performance and predict future productivity using machine learning models like Random Forest and XGBoost. It helps HR teams make data-driven hiring, retention, and engagement decisions. Insights from the analysis guide better workforce management and improve overall organizational performance.",
     tags: [
       { name: "Machine Learning", color: "blue-text-gradient" },
       { name: "Jupyter Notebook", color: "green-text-gradient" },
